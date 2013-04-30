@@ -1,0 +1,3 @@
+1. Add SSH Key to your computer
+2. **Change Remote url to SSH url
+
